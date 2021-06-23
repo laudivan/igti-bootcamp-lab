@@ -1,2 +1,2 @@
-# Laboratório do Bootcamp DevOps do IGTI
-
+# wscicd
+Workshop CiCd

@@ -1,2 +1,0 @@
-# wscicd
-Workshop CiCd
